@@ -1,0 +1,36 @@
+# Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data files (processed or large datasets)
+data/X_processed.csv
+data/cleaned_data.csv
+data/*.csv  # you can adjust this to ignore all CSVs if needed
+
+# MLflow runs and artifacts
+mlruns/
+src/mlflow_artifacts/
+*.log
+
+# Models (trained binaries)
+src/models/
+*.pkl
+
+# Streamlit or app files if generated dynamically
+streamlit_app/
+
+# OS or IDE files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

@@ -1,0 +1,7 @@
+Model,Weighted F1-Score,RMSE,R2 Score
+Logistic Regression,0.9038440094195217,,
+Random Forest Classifier,0.9273166543816378,,
+XGBoost Classifier,0.9758219466896968,,
+Linear Regression,,9.082562630176227e-15,1.0
+Random Forest Regressor,,0.0005186956706904405,0.9999997285933558
+XGBoost Regressor,,0.0006490817352646154,0.9999995749950327
