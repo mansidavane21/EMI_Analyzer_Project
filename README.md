@@ -240,13 +240,6 @@ Please follow **PEP8 coding standards**.
 
 ---
 
-# 📜 **License**
-
-This project is licensed under the **MIT License**.
-See the **LICENSE** file for full text.
-
----
-
 # 🔮 **Future Enhancements**
 
 * Auto ML-based hyperparameter tuning
