@@ -118,7 +118,10 @@ EMI_Analyzer_Project/
 ![Screenshot 4](assets/screenshot4.png)
 ![Screenshot 5](assets/screenshot5.png)
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 5ef19af04686160b81b2bf4368043468890eeb8b
 ---
 
 # 🧩 **System Architecture**
