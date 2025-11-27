@@ -111,20 +111,12 @@ EMI_Analyzer_Project/
 # 🖼️ **Dashboard Preview**
 
 ## 📸 Project Screenshots
-https://github.com/mansidavane21/EMI_Analyzer_Project/blob/main/assets/image-1.png
+
 ![Screenshot 1](assets/screenshot1.png)
 ![Screenshot 2](assets/screenshot2.png)
 ![Screenshot 3](assets/screenshot3.png)
 ![Screenshot 4](assets/screenshot4.png)
 ![Screenshot 5](assets/screenshot5.png)
-
-
-
-<<<<<<< HEAD
-
-=======
->>>>>>> 5ef19af04686160b81b2bf4368043468890eeb8b
----
 
 # 🧩 **System Architecture**
 
