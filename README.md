@@ -112,11 +112,12 @@ EMI_Analyzer_Project/
 
 ## 📸 Project Screenshots
 
-![Dashboard 1](assets/screenshot1.png)
-![Dashboard 2](assets/screenshot2.png)
-![Dashboard 3](assets/screenshot3.png)
-![Dashboard 4](assets/screenshot4.png)
-![Dashboard 5](assets/screenshot5.png)
+![Screenshot 1](assets/screenshot1.png)
+![Screenshot 2](assets/screenshot2.png)
+![Screenshot 3](assets/screenshot3.png)
+![Screenshot 4](assets/screenshot4.png)
+![Screenshot 5](assets/screenshot5.png)
+
 
 
 <<<<<<< HEAD
